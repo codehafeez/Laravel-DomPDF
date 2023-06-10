@@ -35,7 +35,7 @@ CMD => php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex2/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-DomPDF/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
